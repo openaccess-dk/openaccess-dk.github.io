@@ -1,9 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-.page-header {
-  background-color: #fafafa;
-  background-image: none;
-}
+@import 'jekyll-theme-cayman';
