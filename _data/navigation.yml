@@ -6,3 +6,6 @@
 
 - name: English
   link: /english
+
+- name: test
+  link: /test
