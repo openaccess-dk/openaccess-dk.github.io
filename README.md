@@ -16,11 +16,37 @@ Du kan klikke ind på hver fil herover og vælge **Edit** for at ændre i sidern
 
 For at lave en ny side, så klikker du på **Add File** og vælger **Create new file**
 
+Hver .md-fil skal starte med følende metadata for at virker korrekt:
+
+```
+---
+title: Open Access Week 2022
+permalink: /oaw2022
+layout: default
+---
+
+## Overskrift
+
+brødtekst
+```
+
+- `title:` er hvad der kommer til at stå i menuen (se nedenfor)
+- `permalink:` bruges til at lave en pæn URL uden .md
+- `layout:` Skal enten være `default` eller `default-eng` for at få logo og footer på engelsk istedet for dansk
+
 I filen [README-markdown.md](README-markdown.md) kan du læse mere om hvordan man bruger markdown til at formater teksten på hver side.
 
 ## Menu / Navigation
 
-For at ændre i menupunkter så kan du rediger i file: [_data/navigation.yml](https://github.com/openaccess-dk/openaccess-dk.github.io/blob/main/_data/navigation.yml)
+Når du laver nye undersider, så kommer de ikke automatisk med i menuen.
+
+For at ændre i menupunkterne skal du redigere i filen: [_data/navigation.yml](https://github.com/openaccess-dk/openaccess-dk.github.io/blob/main/_data/navigation.yml) - vær meget opmærksom på at du 
+
+## Problemer?
+
+Hver gang du har gemt ændringer, så generer github en ny version af hjemmesiden. Der kan derfor går lidt tid før dine ændringer kan ses på openaccess.dk.
+
+Hvis dine ændringer ikke vises efter et par minutter, så kan der være at der noget galt og den automatiske generering har slået fejl.
 
 (c) Copyright 2022
 
