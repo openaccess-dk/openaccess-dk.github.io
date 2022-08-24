@@ -40,11 +40,11 @@ I filen [README-markdown.md](README-markdown.md) kan du læse mere om hvordan ma
 
 Når du laver nye undersider, så kommer de ikke automatisk med i menuen.
 
-For at ændre i menupunkterne skal du redigere i filen: [_data/navigation.yml](https://github.com/openaccess-dk/openaccess-dk.github.io/blob/main/_data/navigation.yml) - vær meget opmærksom på at du 
+For at ændre i menupunkterne skal du redigere i filen: [_data/navigation.yml](https://github.com/openaccess-dk/openaccess-dk.github.io/blob/main/_data/navigation.yml)
 
 ## Problemer?
 
-Hver gang du har gemt ændringer, så generer github en ny version af hjemmesiden. Der kan derfor går lidt tid før dine ændringer kan ses på openaccess.dk.
+Hver gang du har gemt ændringer, så genererer github en ny version af hjemmesiden. Der kan derfor går lidt tid før dine ændringer kan ses på openaccess.dk.
 
 Hvis dine ændringer ikke vises efter et par minutter, så kan der være at der noget galt og den automatiske generering har slået fejl.
 
