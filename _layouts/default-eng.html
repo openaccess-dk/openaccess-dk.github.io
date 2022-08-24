@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/images/favicon.png" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    {% feed_meta %}
+</head>
+  
+<body>
+  
+  <header>  
+    <h1><a href="https://openaccess.dk"><img src="/assets/images/logo.png" alt="Danish Network for Open Access "></a></h1>
+    {% include navigation.html %} 
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; 2022 Danish Network for Open Access | Contact: <a href="mailto:mail@openaccess.dk">mail@openaccess.dk</a></p>
+  </footer>
+  
+</body>
+</html>
