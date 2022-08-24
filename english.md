@@ -4,8 +4,6 @@ permalink: /english/
 layout: default
 ---
 
-## Welcome to another page
+## Info in English will be show here
 
-_yay_
-
-[back](./)
+_Stay tuned_
