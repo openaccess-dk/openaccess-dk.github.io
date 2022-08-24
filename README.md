@@ -36,7 +36,7 @@ brødtekst
 
 I filen [README-markdown.md](README-markdown.md) kan du læse mere om hvordan man bruger markdown til at formater teksten på hver side.
 
-## Menu / Navigation
+## Menu
 
 Når du laver nye undersider, så kommer de ikke automatisk med i menuen.
 
