@@ -1,7 +1,6 @@
----
-title: Markdown instrcutions
-layout: default
----
+** Click `EDIT` above to see the source code of this page**
+
+----
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
