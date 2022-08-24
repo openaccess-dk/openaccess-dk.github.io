@@ -4,9 +4,9 @@ Github repositorie for Dansk netværk for Open Access' hjemmesiden www.openacces
 
 ## Indhold
 
-Websites indhold er gemt i en række markdown filer som har filetypen `.md`
+Hjemmesidens indhold er gemt i en række markdown filer som har filetypen `.md`
 
-Til at starte med så har jeg lavet følgende filer:
+Til at starte med har jeg lavet følgende filer:
 
 - `index.md` som er forsiden
 - `oaw2022.md` til programmet for Open Access Week 2022
