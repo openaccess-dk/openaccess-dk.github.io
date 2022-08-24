@@ -1,7 +1,7 @@
 ---
 title: Danish Network for Open Access
 permalink: /english/
-layout: default
+layout: default-eng
 ---
 
 ## Info in English will be show here
