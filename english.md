@@ -2,7 +2,7 @@
 title: Danish Network for Open Access
 header: Simple Jekyll {}
 description: A Jekyll site powered by Simple.css
-permalink: /english
+permalink: /english/
 layout: default
 ---
 
