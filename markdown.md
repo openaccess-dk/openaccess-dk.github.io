@@ -1,8 +1,5 @@
 ---
-title: Simple Jekyll - A Jekyll site powered by Simple.css
-header: Simple Jekyll {}
-description: A Jekyll site powered by Simple.css
-permalink: /
+title: Markdown instrcutions
 layout: default
 ---
 
