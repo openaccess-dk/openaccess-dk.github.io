@@ -1,6 +1,5 @@
 ---
 title: Dansk netværk for Open Access
-description: A Jekyll site powered by Simple.css
 permalink: /
 layout: default
 ---
