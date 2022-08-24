@@ -1,5 +1,16 @@
-title: Openaccess.dk
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO Stuff
+title: Dansk netværk for Open Access
+author: <your name>
 description: Dansk netværk for Open Access
-#show_downloads: true
-#google_analytics:
-theme: jekyll-theme-cayman
+lang: da
+locale: da_DK
+url: "https://openaccess.dk"
+baseurl: ""
+
+# RSS feeds
+feed:
+  posts_limit: 20
