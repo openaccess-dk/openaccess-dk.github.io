@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!-- <html lang="{{ site.lang | default: "en-US" }}"> -->
-<html lang="da">
+<html lang="{{ site.lang | default: "en-US" }}">
+<!-- <html lang="da"> -->
   
 <head>
     <meta charset="UTF-8">
@@ -13,19 +13,10 @@
 </head>
   
 <body>
-  <header>
-    
-    <h1>
-      <a href="https://openaccess.dk"><img src="assets/images/logo.png" alt="Dansk netværk for Open Access"></a>
-      {{ page.header }}
-    </h1>
-    
-    <p>{{ page.description }}</p> 
-    
-    <nav>
-      {% include navigation.html %}
-    </nav>      
-    
+  
+  <header>  
+    <h1><a href="https://openaccess.dk"><img src="/assets/images/logo.png" alt="Dansk netværk for Open Access"></a></h1>
+    {% include navigation.html %} 
   </header>
 
   <main>
@@ -35,5 +26,6 @@
   <footer>
     <p>&copy; 2022 Dansk netværk for Open Access | Kontakt: <a href="mailto:mail@openaccess.dk">mail@openaccess.dk</a></p>
   </footer>
+  
 </body>
 </html>
