@@ -1,6 +1,6 @@
 # openaccess.dk
 
-Github repositorie for Dansk netværk for Open Access' hjemmesiden www.openaccess.dk (pt. kun online på: https://openaccess-dk.github.io)
+Github repositorie for Dansk netværk for Open Access' hjemmesiden www.openaccess.dk
 
 ## Indhold
 
