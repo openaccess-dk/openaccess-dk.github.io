@@ -16,6 +16,6 @@ udfordres af i idet daglige arbejde med Open Access. Netværket er organiseret u
 - [Aarhus Universitet](https://medarbejdere.au.dk/en/open-access/advantages-of-open-access)
 - [Aalborg Universitet](https://www.aau.dk/forskning/open-access)
 - [Det Kongelige Akademi - Arkitektur, Design og Konservering](https://emneguides.kglakademi.dk/research/openaccess)
-- RUC
+- Roskilde Universitet
 - CBS
 - UC
