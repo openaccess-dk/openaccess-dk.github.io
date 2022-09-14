@@ -71,6 +71,11 @@ body > header h1 {
   /*color: var(--accent);*/
 }
 
+
+body > header img#header-logo {
+  max-width: 419px;
+}
+
 body > header p {
   max-width: 40rem;
   margin: 1rem auto;
