@@ -1,11 +1,5 @@
-- name: Forside
+- name: Home
   link: /
 
 - name: Open Access Week 2022
   link: /oaw2022
-
-- name: English
-  link: /english
-
-- name: Monday
-  link: /monday
