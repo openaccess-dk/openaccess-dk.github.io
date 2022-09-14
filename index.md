@@ -9,7 +9,7 @@ layout: default
 The _Danish Network for Open Access_ consists of employees from Danish educational institutions 
 who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
 The purpose of the Network is to be a forum for knowledge sharing and discussion on practical issues and challenges 
-that the institutions are faced with in their daily work with Open Access. 
+that the institutions are faced with in their daily work with Open Access.<br/> 
 The Network is organized independent of stakeholder organizations and projects/funding.
 
 ### List of members
