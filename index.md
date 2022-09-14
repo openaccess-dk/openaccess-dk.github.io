@@ -4,7 +4,7 @@ permalink: /
 layout: default
 ---
 
-## Danish Network for Open Access
+### Danish Network for Open Access
 
 The _Danish Network for Open Access_ consists of employees from Danish educational institutions 
 who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
@@ -12,7 +12,7 @@ The purpose of the Network is to be a forum for knowledge sharing and discussion
 that the institutions are faced with in their daily work with Open Access.<br/> 
 The Network is organized independent of stakeholder organizations and projects/funding.
 
-### List of members
+#### List of members
 
 Anna Mette Morthorst, AU Library/Royal Danish Library<br/>
 Anna Stegger Gemzøe, Aalborg University<br/>
@@ -33,7 +33,7 @@ Margrethe Gæk Bredahl, Royal Danish Academy<br/>
 Mathias Johannes Michelsen, AU Library/Royal Danish Library<br/>
 Mette Detlevsen, University of Southern Denmark<br/>
 Morten Hjorth Gad, AU Library/Royal Danish Library<br/>
-Ragnheidur Mósesdóttir, Copenhagen University Library/Royal Danish Library<br/>
+Ragnheiður Mósesdóttir, Copenhagen University Library/Royal Danish Library<br/>
 Rasmus Rindom Riise, Copenhagen University Library/Royal Danish Library<br/>
 Regine Ejstrup, University of Southern Denmark<br/>
 Rie Karen Marie Iversen, Copenhagen University Library/Royal Danish Library<br/>
