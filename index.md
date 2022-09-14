@@ -1,10 +1,10 @@
 ---
-title: Dansk netværk for Open Access
+title: Danish Network for Open Access 
 permalink: /
 layout: default
 ---
 
-## Danish Network of Open Access
+## Danish Network for Open Access
 
 The _Danish Network for Open Access_ consists of employees from Danish educational institutions 
 who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
