@@ -4,14 +4,15 @@ permalink: /
 layout: default
 ---
 
-## Om det danske netværk for Open Access
+## Danish Network of Open Access
 
-_Dansk netværk for Open Acces (Danish Network for Open Access)_ består af medarbejdere fra danske uddannelsesinstitutioner,
-som beskæftiger sig med drifts-, formidlings- og udviklingsrelaterede problemstillinger i relation til Open Access.
-Netværket er et videndelings- og diskussionsforum, som tager udgangspunkt i de praktiske problemstillinger, som institutionerne
-udfordres af i idet daglige arbejde med Open Access. Netværket er organiseret uafhængigt af interesseorganisationer og projekter/projektmidler.
+The _Danish Network for Open Access_ consists of employees from Danish educational institutions 
+who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
+The purpose of the Network is to be a forum for knowledge sharing and discussion on practical issues and challenges 
+that the institutions are faced with in their daily work with Open Access. 
+The Network is organized independent of stakeholder organizations and projects/funding.
 
-## Medlemmer
+## List of members
 - [Københavns Universitet](https://kub.ku.dk/english/usethelibrary/researchers/open-access/)
 - [Aarhus Universitet](https://medarbejdere.au.dk/en/open-access/advantages-of-open-access)
 - [Aalborg Universitet](https://www.aau.dk/forskning/open-access)
