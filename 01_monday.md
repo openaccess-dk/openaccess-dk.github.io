@@ -4,7 +4,9 @@ permalink: /oaw2022/monday01
 layout: default
 ---
 
-### A basic Introduction to Open Access 
+### Oct 24 | 10:00-11:00: A basic Introduction to Open Access
+
+#### Benjamin Derksen - Research Support, Copenhagen University Library
 
 <img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
 
