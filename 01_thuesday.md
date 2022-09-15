@@ -8,7 +8,7 @@ layout: default
 
 #### Karsten Kryger - Senior Consultant, Aalborg University Library
 
-<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
+<img src="/images/images.jpg" alt="Karsten Kryger" style="height: 100%; width:100%;"/>
 
 Tekst
 
