@@ -6,8 +6,8 @@ layout: default
 
 ### cOAlition S and Plan S
 
-<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
+<img src="/images/johan_rooryck.jpg" alt="Johan Rooryck" style="height: 25%; width:25%;"/>
 
-Tekst
+Description is coming soon...
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
