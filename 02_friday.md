@@ -4,10 +4,12 @@ permalink: /oaw2022/friday02
 layout: default
 ---
 
-### A basic Introduction to Open Access 
+### Oct 28 | 14:00-15:00: Monographs and Open Access
 
-<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
+#### Niels Stern - Director of OAPEN
 
-Tekst
+<img src="/images/ns.jpg" alt="Niels Stern" style="height: 25%; width:25%;"/>
+
+Description is coming soon...
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
