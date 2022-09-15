@@ -10,4 +10,4 @@ layout: default
 
 Tekst
 
-##### [BACK](https://openaccess.dk/oaw2022)
+##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
