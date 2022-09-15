@@ -4,10 +4,12 @@ permalink: /oaw2022/thuesday02
 layout: default
 ---
 
-### A basic Introduction to Open Access 
+### Oct 25 | 13:00-14:00: Rights Retention Strategy
 
-<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
+#### Per Pippin Aspaas - Head of library research and publishing support, The Arctic University of Norway
 
-Tekst
+<img src="/images/Doe.svg" alt="Per Pippin Aspaas" style="height: 25%; width:25%;"/>
+
+Description is coming soon...
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
