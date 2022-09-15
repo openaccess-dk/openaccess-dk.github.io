@@ -4,7 +4,9 @@ permalink: /oaw2022/thuesday01
 layout: default
 ---
 
-### A basic Introduction to Open Access 
+### How to open your data responsibly | Karsten Kryger - Senior Consultant, Aalborg University Library
+
+#### 25 Oct | 10:00-11:00
 
 <img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
 
