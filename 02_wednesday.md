@@ -4,7 +4,7 @@ permalink: /oaw2022/wednesday02
 layout: default
 ---
 
-### Oct 26 | 13:00-14:00: DOAJ: What is it – why are we important?
+### Oct 27 | 13:00-14:00: DOAJ: What is it – why are we important?
 
 #### Paula Marjamäki - Managing Editor, DOAJ
 
