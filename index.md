@@ -24,7 +24,6 @@ Birgit Truelsen Larsen, VIA University College<br/>
 Birgitte Sass, University College Absalon<br/>
 Christian Damsgaard Pedersen, DTU<br/>
 Claus Rosenkrantz Hansen, Copenhagen Business School<br/>
-Henriette Arnoldus Andersen, University of Copenhagen<br/>
 Jesper Boserup Thestrup, AU Library/Royal Danish Library<br/>
 Kathrine Bjerg Bennike, Aalborg University<br/> 
 Louise Thomsen, Aalborg University<br/>
