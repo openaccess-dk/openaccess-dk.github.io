@@ -4,10 +4,13 @@ permalink: /oaw2022/friday01
 layout: default
 ---
 
-### A basic Introduction to Open Access 
+### Oct 28 | 10:00-11:00: Open Access in Practise
 
-<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
+#### Steffen Foss Hansen - Department of Environmental and Resource Engineering Circularity & Environmental Impact, DTU
 
-Tekst
+<img src="/images/Doe.svg" alt="Steffen Foss Hansen" style="height: 25%; width:25%;"/>
+
+Description is coming soon...
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
+
