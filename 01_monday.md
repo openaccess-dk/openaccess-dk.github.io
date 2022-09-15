@@ -6,7 +6,7 @@ layout: default
 
 ### A basic Introduction to Open Access 
 
-<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 100%; width:100%;"/>
+<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 25%; width:25%;"/>
 Tekst
 
 ###### [BACK](https://openaccess.dk/oaw2022)
