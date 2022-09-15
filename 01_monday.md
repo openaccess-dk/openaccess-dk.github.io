@@ -8,8 +8,8 @@ layout: default
 
 #### Benjamin Derksen - Research Support, Copenhagen University Library
 
-<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 20%; width:20%;"/>
+<img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 25%; width:25%;"/>
 
-Tekst
+Description is coming soom...
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
