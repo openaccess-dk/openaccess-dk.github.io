@@ -12,5 +12,7 @@ layout: default
 
 Description is coming soon...
 
+##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web9)
+
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
 
