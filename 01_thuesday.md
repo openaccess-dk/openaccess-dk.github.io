@@ -12,4 +12,6 @@ layout: default
 
 Making your data open and Findable, Accessible, Interoperable and Reusable - aka the FAIR principles - might just seem like yet another acronym to remember. It’s more than that – and easy and doable, which will be demonstrated during the talk. The logic of FAIR is simple and is rooted in the academic standards and desire of visibility and possible reuse. Even with data you cannot share! And when you work with opening your data with the aid of the FAIR principles it might even ‘collide’ with other acronyms like GDPR and IPR (Intellectual Property Rights). This talk will provide an overview of the open data landscape and explain how the FAIR principles can be viewed in line with good data handling practice and put into everyday research practice and planning. And we will demo the move of offline data to online ditto during the talk.
 
+##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web3)
+
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
