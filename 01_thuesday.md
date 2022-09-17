@@ -6,7 +6,7 @@ layout: default
 
 ### Oct 25 | 10:00-11:00: How to open your data responsibly
 
-#### Karsten Kryger Hansen - Data Management expert, Aalborg University
+#### Karsten Kryger Hansen - Cand.scient in Informatics and Data Management expert at AAU
 
 <img src="/images/images.jpg" alt="Karsten Kryger" style="height: 25%; width:25%;"/>
 
