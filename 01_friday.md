@@ -8,9 +8,9 @@ layout: default
 
 #### Steffen Foss Hansen - Department of Environmental and Resource Engineering Circularity & Environmental Impact, DTU
 
-<img src="/images/Doe.svg" alt="Steffen Foss Hansen" style="height: 25%; width:25%;"/>
+<img src="/images/SFH.jpg" alt="Steffen Foss Hansen" style="height: 25%; width:25%;"/>
 
-Description is coming soon...
+Steffen Foss Hansen is associate professor at DTU Sustain. This webinar will be about how he uses Open Access when publishing, and the pros and cons of it from a researcher's perspective.
 
 ##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web9)
 
