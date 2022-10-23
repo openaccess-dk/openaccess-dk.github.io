@@ -12,6 +12,6 @@ layout: default
 
 In this talk, Johan Rooryck will provide an overview of the goals, policies, and tools that have been developed by the 27 research organisations that have agreed to implement Plan S starting from 1 January 2021. Johan will give particular attention to the Rights Retention policy, which is now increasingly adopted by universities as well. cOAlition S has shown that a concerted effort by funders can significantly influence academic publishing.
 
-##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web2)
+##### --> Registration closed <--
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
