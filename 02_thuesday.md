@@ -18,6 +18,6 @@ UiT The Arctic University of Norway (founded 1968) has for many years aimed to b
 
 In this presentation, Per Pippin Aspaas and Niels Cadée will discuss the place of Green OA in the wider Open Access landscape and how it relates to Academic Freedom and the democratization of knowledge. They will also briefly explain the workflow from researcher via administration to open archiving of fulltexts in the institutional archive. There will be ample room for questions and comments.
 
-##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web4)
+##### --> Registration closed <--
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
