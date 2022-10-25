@@ -15,6 +15,6 @@ A number of Open Science Platforms (OSPs) have emerged worldwide to promote univ
 Maria-Theresa Norn (Ph.D.) is a part-time senior researcher at Danish Centre for Studies in Research and Research Policy, Aarhus University and part-time senior researcher at Centre for Technology Entrepreneurship, Technical University of Denmark. 
 Her main interests are: science policy, science funding, open science, open innovation in science, interdisciplinary research collaboration, university-industry collaboration, technology transfer, innovation policy, and higher education policy. 
 
-##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web5)
+##### --> Registration closed <--
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
