@@ -16,6 +16,6 @@ layout: default
 
 This presentation will provide a brief introduction about preprints and the recent trends of their use in the life sciences. The presenters will discuss the benefits preprints bring to researchers and to research communication, and why preprints are a versatile tool to support open science. The presentation will also share a brief five-step guide to help researchers have a positive experience when posting a preprint.
 
-##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web7)
+##### --> Registration closed <--
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
