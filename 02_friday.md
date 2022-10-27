@@ -17,6 +17,6 @@ In this session, Niels Stern will present relevant initiatives including [DOAB](
 
 Niels Stern is director of OAPEN. He began his career in scholarly book publishing in 2003 with an emphasis on marketing and digital publishing. In this capacity he became a co-founder of the OAPEN project in 2008. Moving on to the Nordic Council of Ministers in 2011 as head of publishing he created a Nordic open access policy and publication repository. Since 2014 Niels Stern has acted as independent expert for the European Commission on open science and e-infrastructures. He has evaluated and reviewed numerous European projects, e.g. HIRMEOS and OPERAS-D.
 
-##### [--> Register here <--](https://ku-dk.libwizard.com/f/oa_week_web10)
+##### --> Registration closed <--
 
 ##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2022)
