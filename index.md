@@ -18,7 +18,7 @@ The Network is organized independent of stakeholder organizations and projects/f
 Anna Mette Morthorst<br/>
 Jesper Boserup Thestrup<br/>
 Mathias Johannes Michelsen<br/>
-Morten Hjorth Gad<br/>
+Morten Hjorth Gad<br/><br/>
 
 ##### Copenhagen Business School
 Claus Rosenkrantz Hansen<br/>
@@ -38,29 +38,29 @@ Maiken Vinter Bjerrum<br/>
 Beatrice Raarup<br/>
 Christian Damsgaard Pedersen<br/>
 
-#### IT University of Copenhagen
+##### IT University of Copenhagen
 Sofie Nohr Gad<br/>
 
 ##### Roskilde University Library | Royal Danish Library
 Sidse Louise Schelde<br/>
 
-#### Royal Danish Academy
+##### Royal Danish Academy
 Margrethe Gæk Bredahl<br/>
 
-#### University College Absalon
+##### University College Absalon
 Annemette Holst Andersen<br/>
 Birgitte Sass<br/>
 Rubina Kausar Afzal<br/>
 
-#### University of Southern Denmark
+##### University of Southern Denmark
 Mette Detlevsen<br/>
 Regine Ejstrup<br/>
 Søren Valdemar Welling<br/>
 
-#### VIA University College
+##### VIA University College
 Birgit Truelsen Larsen</br>
 
-#### Aalborg University
+##### Aalborg University
 Anna Stegger Gemzøe<br/>
 Anne Lyhne Høj<br/>
 Kathrine Bjerg Bennike<br/> 
