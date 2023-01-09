@@ -22,43 +22,43 @@ Morten Hjorth Gad<br/><br/>
 
 ##### Copenhagen Business School
 Claus Rosenkrantz Hansen<br/>
-Lene Hald<br/>
+Lene Hald<br/><br/>
 
 ##### Copenhagen University Library | Royal Danish Library
 Ane Ahrenkiel Sand<br/>
 Katarina Smitt Engberg<br/>
 Ragnheiður Mósesdóttir<br/>
 Rasmus Rindom Riise<br/>
-Rie Karen Marie Iversen<br/>
+Rie Karen Marie Iversen<br/><br/>
 
 ##### Danish Institute for International Studies
-Maiken Vinter Bjerrum<br/>
+Maiken Vinter Bjerrum<br/><br/>
 
 ##### DTU
 Beatrice Raarup<br/>
-Christian Damsgaard Pedersen<br/>
+Christian Damsgaard Pedersen<br/><br/>
 
 ##### IT University of Copenhagen
-Sofie Nohr Gad<br/>
+Sofie Nohr Gad<br/><br/>
 
 ##### Roskilde University Library | Royal Danish Library
-Sidse Louise Schelde<br/>
+Sidse Louise Schelde<br/><br/>
 
 ##### Royal Danish Academy
-Margrethe Gæk Bredahl<br/>
+Margrethe Gæk Bredahl<br/><br/>
 
 ##### University College Absalon
 Annemette Holst Andersen<br/>
 Birgitte Sass<br/>
-Rubina Kausar Afzal<br/>
+Rubina Kausar Afzal<br/><br/>
 
 ##### University of Southern Denmark
 Mette Detlevsen<br/>
 Regine Ejstrup<br/>
-Søren Valdemar Welling<br/>
+Søren Valdemar Welling<br/><br/>
 
 ##### VIA University College
-Birgit Truelsen Larsen</br>
+Birgit Truelsen Larsen</br><br/>
 
 ##### Aalborg University
 Anna Stegger Gemzøe<br/>
