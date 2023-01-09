@@ -58,7 +58,7 @@ Regine Ejstrup<br/>
 Søren Valdemar Welling<br/><br/>
 
 ##### VIA University College
-Birgit Truelsen Larsen</br><br/>
+Birgit Truelsen Larsen<br/><br/>
 
 ##### Aalborg University
 Anna Stegger Gemzøe<br/>
