@@ -12,31 +12,68 @@ The purpose of the Network is to be a forum for knowledge sharing and discussion
 that the institutions are faced with in their daily work with Open Access.<br/> 
 The Network is organized independent of stakeholder organizations and projects/funding.
 
-#### List of members
+#### List of members - Sorted by organization
 
-Anna Mette Morthorst, AU Library/Royal Danish Library<br/>
-Anna Stegger Gemzøe, Aalborg University<br/>
-Ane Ahrenkiel Sand, Copenhagen University Library/Royal Danish Library<br/>
-Annemette Holst Andersen, University College Absalon<br/>
-Anne Lyhne Høj, Aalborg University<br/>
-Beatrice Raarup, DTU<br/>
-Birgit Truelsen Larsen, VIA University College<br/>
-Birgitte Sass, University College Absalon<br/>
-Christian Damsgaard Pedersen, DTU<br/>
-Claus Rosenkrantz Hansen, Copenhagen Business School<br/>
-Jesper Boserup Thestrup, AU Library/Royal Danish Library<br/>
-Kathrine Bjerg Bennike, Aalborg University<br/> 
-Louise Thomsen, Aalborg University<br/>
-Maiken Vinter Bjerrum, Danish Institute for International Studies<br/>
-Margrethe Gæk Bredahl, Royal Danish Academy<br/>
-Mathias Johannes Michelsen, AU Library/Royal Danish Library<br/>
-Mette Detlevsen, University of Southern Denmark<br/>
-Morten Hjorth Gad, AU Library/Royal Danish Library<br/>
-Ragnheiður Mósesdóttir, Copenhagen University Library/Royal Danish Library<br/>
-Rasmus Rindom Riise, Copenhagen University Library/Royal Danish Library<br/>
-Regine Ejstrup, University of Southern Denmark<br/>
-Rie Karen Marie Iversen, Copenhagen University Library/Royal Danish Library<br/>
-Rubina Kausar Afzal, University College Absalon<br/>
-Sidse Louise Schelde, Roskilde University Library/Royal Danish Library<br/>
-Sofie Nohr Gad, IT University of Copenhagen<br/>
-Søren Valdemar Welling, University of Southern Denmark<br/>
+##### AU Library | Royal Danish Library
+
+Anna Mette Morthorst<br/>
+Jesper Boserup Thestrup<br/>
+Mathias Johannes Michelsen<br/>
+Morten Hjorth Gad<br/>
+
+##### Copenhagen Business School
+
+Claus Rosenkrantz Hansen<br/>
+Lene Hald<br/>
+
+##### Copenhagen University Library | Royal Danish Library
+
+Ane Ahrenkiel Sand<br/>
+Katarina Smitt Engberg</br>
+Ragnheiður Mósesdóttir<br/>
+Rasmus Rindom Riise<br/>
+Rie Karen Marie Iversen<br/>
+
+##### Danish Institute for International Studies
+
+Maiken Vinter Bjerrum</br>
+
+##### DTU
+
+Beatrice Raarup<br/>
+Christian Damsgaard Pedersen<br/>
+
+#### IT University of Copenhagen
+
+Sofie Nohr Gad</br>
+
+##### Roskilde University Library | Royal Danish Library
+
+Sidse Louise Schelde</br>
+
+#### Royal Danish Academy
+
+Margrethe Gæk Bredahl
+
+#### University College Absalon
+
+Annemette Holst Andersen</br>
+Birgitte Sass</br>
+Rubina Kausar Afzal</br>
+
+#### University of Southern Denmark
+
+Mette Detlevsen<br/>
+Regine Ejstrup<br/>
+Søren Valdemar Welling<br/>
+
+#### VIA University College
+
+Birgit Truelsen Larsen</br>
+
+#### Aalborg University
+
+Anna Stegger Gemzøe<br/>
+Anne Lyhne Høj<br/>
+Kathrine Bjerg Bennike<br/> 
+Louise Thomsen<br/>
