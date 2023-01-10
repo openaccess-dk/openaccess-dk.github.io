@@ -14,7 +14,7 @@ The Network is organized independent of stakeholder organizations and projects/f
 
 #### List of members - Sorted by organization
 
-##### AU Library | Royal Danish Library
+**AU Library | Royal Danish Library**
 Anna Mette Morthorst<br/>
 Jesper Boserup Thestrup<br/>
 Mathias Johannes Michelsen<br/>
