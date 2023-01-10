@@ -20,8 +20,8 @@ Jesper Boserup Thestrup<br/>
 Mathias Johannes Michelsen<br/>
 Morten Hjorth Gad<br/><br/>
 
-##### Copenhagen Business School
-Claus Rosenkrantz Hansen<br/>
+**Copenhagen Business School**
+<br>Claus Rosenkrantz Hansen<br/>
 Lene Hald<br/><br/>
 
 ##### Copenhagen University Library | Royal Danish Library
