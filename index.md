@@ -20,47 +20,47 @@ Jesper Boserup Thestrup<br/>
 Mathias Johannes Michelsen<br/>
 Morten Hjorth Gad<br/><br/>
 
-**Copenhagen Business School**
-<br>Claus Rosenkrantz Hansen<br/>
+**Copenhagen Business School**<br/>
+Claus Rosenkrantz Hansen<br/>
 Lene Hald<br/><br/>
 
-##### Copenhagen University Library | Royal Danish Library
+**Copenhagen University Library | Royal Danish Library**<br/>
 Ane Ahrenkiel Sand<br/>
 Katarina Smitt Engberg<br/>
 Ragnheiður Mósesdóttir<br/>
 Rasmus Rindom Riise<br/>
 Rie Karen Marie Iversen<br/><br/>
 
-##### Danish Institute for International Studies
+**Danish Institute for International Studies**<br/>
 Maiken Vinter Bjerrum<br/><br/>
 
-##### DTU
+**DTU**<br/>
 Beatrice Raarup<br/>
 Christian Damsgaard Pedersen<br/><br/>
 
-##### IT University of Copenhagen
+**IT University of Copenhagen**<br/>
 Sofie Nohr Gad<br/><br/>
 
-##### Roskilde University Library | Royal Danish Library
+**Roskilde University Library | Royal Danish Library**<br/>
 Sidse Louise Schelde<br/><br/>
 
-##### Royal Danish Academy
+**Royal Danish Academy**<br/>
 Margrethe Gæk Bredahl<br/><br/>
 
-##### University College Absalon
+**University College Absalon**<br/>
 Annemette Holst Andersen<br/>
 Birgitte Sass<br/>
 Rubina Kausar Afzal<br/><br/>
 
-##### University of Southern Denmark
+**University of Southern Denmark**<br/>
 Mette Detlevsen<br/>
 Regine Ejstrup<br/>
 Søren Valdemar Welling<br/><br/>
 
-##### VIA University College
+**VIA University College**<br/>
 Birgit Truelsen Larsen<br/><br/>
 
-##### Aalborg University
+**Aalborg University**<br/>
 Anna Stegger Gemzøe<br/>
 Anne Lyhne Høj<br/>
 Kathrine Bjerg Bennike<br/> 
