@@ -22,7 +22,7 @@ Morten Hjorth Gad<br/><br/>
 
 **Copenhagen Business School**<br/>
 Claus Rosenkrantz Hansen<br/>
-Lene Hald<br/><br/>
+Lene Janussen Gry<br/><br/>
 
 **Copenhagen University Library | Royal Danish Library**<br/>
 Ane Ahrenkiel Sand<br/>
