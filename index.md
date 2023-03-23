@@ -52,6 +52,9 @@ Annemette Holst Andersen<br/>
 Birgitte Sass<br/>
 Rubina Kausar Afzal<br/><br/>
 
+**University College South Denmark**<br/>
+Anne-Dorte Tækker Pedersen<br/><br/>
+
 **University of Southern Denmark**<br/>
 Mette Detlevsen<br/>
 Regine Ejstrup<br/>
