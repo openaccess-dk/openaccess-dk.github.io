@@ -66,8 +66,7 @@ Birgit Truelsen Larsen<br/><br/>
 **Aalborg University**<br/>
 Anna Stegger Gemzøe<br/>
 Anne Lyhne Høj<br/>
-Kathrine Bjerg Bennike<br/> 
-Louise Thomsen<br/><br/>
+Kathrine Bjerg Bennike<br/><br/>
 
 **Aalborg University Hospital**<br/>
 Maria Pertou Østergaard<br/>
