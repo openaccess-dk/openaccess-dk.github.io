@@ -1,5 +1,8 @@
 - name: About the network
   link: /
 
+  - name: Contact
+  link: /contact
+
 - name: Danish Open Access Week 2022
   link: /oaw2022
