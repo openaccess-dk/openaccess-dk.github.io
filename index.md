@@ -14,7 +14,6 @@ The Network is organized independent of stakeholder organizations and projects/f
 
 <a href="https://kub.kb.dk/ld.php?content_id=34824666" target="_blank"> Read the network's Statement of Intent </a>
 
-
 #### List of members - Sorted by organization
 
 **AU Library | Royal Danish Library**<br/>
