@@ -15,7 +15,7 @@ The webinars are open to anyone with an interest in Open Access. Below you can r
 The program is not fully planned and changes may occur.
 
 #### Practical information
-The webinars are held in the course of week 43 (October 23-27 2023). For details about the individual webinars, see below. All the webinars are free of charge and anyone can sign up. All webinars are held in English. The webinars will be recorded and uploaded to the website afterwards.
+The webinars are held in the course of week 43 (October 23-27 2023). For details about the individual webinars, see below. All the webinars are free of charge and anyone can sign up. All webinars are held in English.<br><br> The webinars will be recorded and uploaded to the website afterwards.<br><br>
 Please note, when you have completed a registration to a webinar, you will not receive a confirmation by e-mail. The Zoom link to the webinar will be sent to you by e-mail one week and again one day before the webinar begins.
  
 #### Programme of the Danish Open Access Week 2023
