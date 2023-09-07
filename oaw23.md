@@ -8,24 +8,15 @@ layout: default
 
 #### [Go directly to the programme](#programme-of-the-danish-open-access-week-2023) - [Practical information](#practical-information)
 
-##### The Danish Network for Open Access is proud to be able to invite academic staff and students to join a number of webinars on Open Access. The webinars are arranged in connection with the international Open Access Week. Further down you can read more about the [programme](#programme-of-the-danish-open-access-week-2022) and sign up for the individual webinars.
+##### For the second year in a row, the Danish Open Access Network is very proud to invite everyone to the Danish Open Access Week 2023 Further down you can read more about the [programme](#programme-of-the-danish-open-access-week-2023) and sign up for the individual webinars.
 
-Parallel archiving, Article Processing Charges (APC), Diamond, embargoes – there are many terms in play when one talks about Open Access to research publications and teaching materials, so regardless of whether one is a researcher or student, one can quickly lose sight of what is what in this field.
-
-The Danish Network for Open Access has therefore organized a number of webinars that aim to demystify and explain the meaning of Open Access. This is the Danish contribution to the annual international Open Access Week.
-
-The [programme](#programme-of-the-danish-open-access-week-2022) addresses both researchers (academic staff) and students, and the individual webinars will cover all aspects of the Open Access universe. There will be presentations that begin at the beginning and explain the basic details of Open Access – and there will be presentations that will look at and explain the more complicated aspects of Open Access, for example the intricacies of the Plan S-initiative.
+Once again, the Danish Open Access Week 2023 will include a series of different webinars on Open Access with speakers from both Denmark and abroad. Various Open Access topics will be addressed: There will be presentations that explain the basics of Open Access and presentations that will look at the more complicated Open Access aspects. All presentations will include a Q&A.
+The webinars are open to anyone with an interest in Open Access. Below you can read the week’s programme and register for each webinar.
+The program is not fully planned and changes may occur.
 
 #### Practical information
-10 webinars are held in the course of week 43 (October 24-28 2022). For details about the individual webinars, see below. All the webinars are free of charge and anyone can sign up. All webinars are held in English. 
-
-_Please note_, when you have completed a registration to a webinar, you will not receive a confirmation by e-mail. The Zoom link to the webinar will be sent to you by e-mail the day before the webinar begins. The link will also appear in a confirmation notification after your registration.
-
-The <u>registration deadline</u> for each webinar is <u>the day before it is held at 12:00 (CEST)</u>.
-
-If you want to cancel your registration(s), [click here](https://ku-dk.libwizard.com/f/oa_week_cancellation).
-
-The programme is subject to change, and will be updated continuously.
+The webinars are held in the course of week 43 (October 23-27 2023). For details about the individual webinars, see below. All the webinars are free of charge and anyone can sign up. All webinars are held in English. The webinars will be recorded and uploaded to the website afterwards.
+Please note, when you have completed a registration to a webinar, you will not receive a confirmation by e-mail. The Zoom link to the webinar will be sent to you by e-mail one week and again one day before the webinar begins.
  
 #### About Open Access Week
 Open Access Week is an annual event, which through various activities and events seeks to promote and disseminate all aspects of Open Access. Open Access Week was first held in 2009 and always takes place in the last week of October.
@@ -34,10 +25,8 @@ This year the theme of the week is “Open for Climate Justice”. Visit the Int
 
 #### Programme of the Danish Open Access Week 2023
 
-##### Monday - October 24
-- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2022/monday01) </b> - Benjamin Derksen - Research Support, Copenhagen University Library - <a href="https://kub.kb.dk/ld.php?content_id=34449224" target="_blank"> Download slides </a>
-
-- 13:00-14:00(CEST): <b>[Plan S and cOAlition S: policies and tools for full and immediate Open Access](https://openaccess.dk/oaw2022/monday02) </b> - Johan Rooryck - Executive Director of cOAlition S - <a href="https://sid.erda.dk/share_redirect/d8fnqkfA1L" target="_blank"> Download slides </a>
+##### Monday - October 23
+- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2022/monday01) </b> - Benjamin Derksen - Copenhagen University Library - <a href="https://kub.kb.dk/ld.php?content_id=34449224" target="_blank"> Download slides </a>
 
 ##### Tuesday - October 25
 - 10:00-11:00 (CEST): <b>[How to open your data responsibly](https://openaccess.dk/oaw2022/thuesday01) </b> - Karsten Kryger Hansen - Cand.scient in Informatics and Data Management expert at AAU - <a href="https://sid.erda.dk/share_redirect/AZA2CYe385" target="_blank"> Download slides </a>
