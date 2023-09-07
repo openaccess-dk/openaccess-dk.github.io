@@ -21,7 +21,7 @@ Please note, when you have completed a registration to a webinar, you will not r
 #### Programme of the Danish Open Access Week 2023
 
 ##### Monday - October 23
-- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2022/monday01) </b> - Benjamin Derksen - Copenhagen University Library
+- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2023/monday_oct_23_1) </b> - Benjamin Derksen - Copenhagen University Library
 
 ##### Tuesday - October 24
 - 13:00-14:00 (CEST): <b>[Beyond BPCs: Towards fairer, more sustainable futures for Open Access books](https://openaccess.dk/oaw2022/thuesday02) </b> - Joe Deville, Open Book Collective / Lancaster University
