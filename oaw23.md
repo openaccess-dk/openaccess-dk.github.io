@@ -21,24 +21,16 @@ Please note, when you have completed a registration to a webinar, you will not r
 #### Programme of the Danish Open Access Week 2023
 
 ##### Monday - October 23
-- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2022/monday01) </b> - Benjamin Derksen - Copenhagen University Library - <a href="https://kub.kb.dk/ld.php?content_id=34449224" target="_blank"> Download slides </a>
+- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2022/monday01) </b> - Benjamin Derksen - Copenhagen University Library
 
-##### Tuesday - October 25
-- 10:00-11:00 (CEST): <b>[How to open your data responsibly](https://openaccess.dk/oaw2022/thuesday01) </b> - Karsten Kryger Hansen - Cand.scient in Informatics and Data Management expert at AAU - <a href="https://sid.erda.dk/share_redirect/AZA2CYe385" target="_blank"> Download slides </a>
+##### Tuesday - October 24
+- 13:00-14:00 (CEST): <b>[Beyond BPCs: Towards fairer, more sustainable futures for Open Access books](https://openaccess.dk/oaw2022/thuesday02) </b> - Joe Deville, Open Book Collective / Lancaster University
 
-- 13:00-14:00 (CEST): <b>[Rights Retention Strategy](https://openaccess.dk/oaw2022/thuesday02) </b> - Per Pippin Aspaas - Head of library research and publishing support at University Library of UiT The Arctic University of Norway & Niels Cadée - Senior librarian at University Library of UiT The Arctic University of Norway - <a href="https://sid.erda.dk/share_redirect/ChLmxHaOMY" target="_blank"> Download slides </a>
+##### Wednesday - October 25
+- 13:00-14:00 (CEST): <b>[Rights Retention Strategy](https://openaccess.dk/oaw2022/wednesday01) </b> - Dominic Tate, Head of Library Research Support, Edinburgh University Library
 
-##### Wednesday - October 26
-- 10:00-11:00 (CEST): <b>[What’s open about Open Science Platforms for university-industry collaboration? The case of ODIN](https://openaccess.dk/oaw2022/wednesday01) </b> - Maria-Theresa Norn - Senior Researcher, DTU and Aarhus University - <a href="https://sid.erda.dk/share_redirect/HfzGMjkbmk" target="_blank"> Download slides </a>
+##### Thursday - October 26
+- TBA
 
-- 13:00-14:00 (CEST): <b>[Open Access and Creative Commons](https://openaccess.dk/oaw2022/wednesday02) </b> - Claus Rosenkrantz Hansen - Academic Officer, Copenhagen Business School & Rasmus Rindom Riise, Research Support, Copenhagen University Library - <a href="https://sid.erda.dk/share_redirect/d7tobc6ImR" target="_blank"> Download slides </a>
-
-##### Thursday - October 27
-- 10:00-11:00 (CEST): <b>[Putting researchers in control: Preprints as a versatile tool for open science](https://openaccess.dk/oaw2022/thursday01) </b> - Iratxe Puebla - Director of Strategic Initiatives & Community for ASAPbio & Pablo Ranea Robles - Novo Nordisk Foundation Center for Basic Metabolic Research, University of Copenhagen - <a href="https://docs.google.com/presentation/d/14D29dlgAgO-p0oF-GVAGyY69n-Eel8ucaHgsV59VvWE/edit#slide=id.p" target="_blank"> Download Iratxe Puebla's slides </a> - <a href="https://docs.google.com/presentation/d/1Pyzr1qaXpoxD1fshkbdxlMyjfE3V2olm8A_-_654ZWY/edit#slide=id.g172459baf9e_0_0" target="_blank"> Download Pablo Ranea Robles' slides </a>
-
-- 13:00-14:00 (CEST): <b>[DOAJ: What is it – why are we important?](https://openaccess.dk/oaw2022/thursday02) </b> - Paula Marjamäki - Managing Editor, DOAJ - <a href="https://sid.erda.dk/share_redirect/EOpjAn8y8Y" target="_blank"> Download slides </a>
-
-##### Friday - October 28
-- 10:00-11:00 (CEST): <b>[Open access in practice](https://openaccess.dk/oaw2022/friday01) </b> - Steffen Foss Hansen - Department of Environmental and Resource Engineering Circularity & Environmental Impact, DTU - <a href="https://sid.erda.dk/share_redirect/buiaEf5Flv" target="_blank"> Download slides </a>
-
-- 14:00-15:00 (CEST): <b>[”Scholarly monographs should also be Open Access, shouldn’t they?” – Guidelines and tools to making books Open Access](https://openaccess.dk/oaw2022/friday02) </b> - Niels Stern - Director of OAPEN - <a href="https://sid.erda.dk/share_redirect/d3g8aOanbN" target="_blank"> Download slides </a>
+##### Friday - October 27
+- TBA
