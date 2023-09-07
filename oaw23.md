@@ -11,7 +11,7 @@ layout: default
 ##### For the second year in a row, the Danish Open Access Network is very proud to invite everyone to the Danish Open Access Week 2023. Below you can read more about the [programme](#programme-of-the-danish-open-access-week-2023) and sign up for the individual webinars.
 
 Once again, the Danish Open Access Week 2023 will include a series of different webinars on Open Access with speakers from both Denmark and abroad. Various Open Access topics will be addressed: There will be presentations that explain the basics of Open Access and presentations that will look at the more complicated Open Access aspects. All presentations will include a Q&A.</br>
-The webinars are open to anyone with an interest in Open Access. Below you can read the week’s programme and register for each webinar.
+The webinars are open to anyone with an interest in Open Access. Below you can read the week’s programme and register for each webinar.</br>
 The program is not fully planned and changes may occur.
 
 #### Practical information
