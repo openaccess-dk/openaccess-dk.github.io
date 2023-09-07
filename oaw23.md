@@ -8,9 +8,9 @@ layout: default
 
 #### [Go directly to the programme](#programme-of-the-danish-open-access-week-2023) - [Practical information](#practical-information)
 
-##### For the second year in a row, the Danish Open Access Network is very proud to invite everyone to the Danish Open Access Week 2023 Further down you can read more about the [programme](#programme-of-the-danish-open-access-week-2023) and sign up for the individual webinars.
+##### For the second year in a row, the Danish Open Access Network is very proud to invite everyone to the Danish Open Access Week 2023. Below you can read more about the [programme](#programme-of-the-danish-open-access-week-2023) and sign up for the individual webinars.
 
-Once again, the Danish Open Access Week 2023 will include a series of different webinars on Open Access with speakers from both Denmark and abroad. Various Open Access topics will be addressed: There will be presentations that explain the basics of Open Access and presentations that will look at the more complicated Open Access aspects. All presentations will include a Q&A.
+Once again, the Danish Open Access Week 2023 will include a series of different webinars on Open Access with speakers from both Denmark and abroad. Various Open Access topics will be addressed: There will be presentations that explain the basics of Open Access and presentations that will look at the more complicated Open Access aspects. All presentations will include a Q&A.</br>
 The webinars are open to anyone with an interest in Open Access. Below you can read the week’s programme and register for each webinar.
 The program is not fully planned and changes may occur.
 
@@ -18,11 +18,6 @@ The program is not fully planned and changes may occur.
 The webinars are held in the course of week 43 (October 23-27 2023). For details about the individual webinars, see below. All the webinars are free of charge and anyone can sign up. All webinars are held in English. The webinars will be recorded and uploaded to the website afterwards.
 Please note, when you have completed a registration to a webinar, you will not receive a confirmation by e-mail. The Zoom link to the webinar will be sent to you by e-mail one week and again one day before the webinar begins.
  
-#### About Open Access Week
-Open Access Week is an annual event, which through various activities and events seeks to promote and disseminate all aspects of Open Access. Open Access Week was first held in 2009 and always takes place in the last week of October.
-
-This year the theme of the week is “Open for Climate Justice”. Visit the International Open Access Week [website](https://www.openaccessweek.org/) for more information about this year’s theme and activities.
-
 #### Programme of the Danish Open Access Week 2023
 
 ##### Monday - October 23
