@@ -14,4 +14,4 @@ In this talk, Joe Deville will explore some of the challenges in the dominant fu
 
 ##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSfaWkahJQ0sd8UOBsihx2pVxZeA08Kx2FVJe0Fdw2eNamieUw/viewform?usp=sf_link) <--
 
-##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2023)
+##### [BACK](https://openaccess.dk/oaw2023#programme-of-the-danish-open-access-week-2023)
