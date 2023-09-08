@@ -14,5 +14,5 @@ This presentation will tackle the basics of Open Access publishing. What it is, 
 
 ##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSd1RALcLRO2hHmQ2f1gL9SifTxv5BNK5D7E5na5nu3UyA8Xlg/viewform?usp=sf_link) <--
 
-##### [BACK](https://openaccess.dk/oaw2022#programme-of-the-danish-open-access-week-2023)
+##### [BACK](https://openaccess.dk/oaw2023#programme-of-the-danish-open-access-week-2023)
 
