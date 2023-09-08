@@ -5,7 +5,9 @@ layout: default
 ---
 
 #### Oct 24 | 13:00-14:00 (CEST):
+
 ### Beyond BPCs: Towards fairer, more sustainable futures for Open Access books
+
 #### Joe Deville, Open Book Collective / Lancaster University
 
 <img src="/images/jd.jpg" alt="Joe Deville" style="height: 25%; width:25%;"/>
