@@ -4,7 +4,8 @@ permalink: /oaw2023/tuesday_oct_24_2
 layout: default
 ---
 
-### Oct 24 | 13:00-14:00 (CEST): Beyond BPCs: Towards fairer, more sustainable futures for Open Access books
+### Oct 24 | 13:00-14:00 (CEST): 
+### Beyond BPCs: Towards fairer, more sustainable futures for Open Access books
 
 #### Joe Deville, Open Book Collective / Lancaster University
 
