@@ -4,7 +4,7 @@ permalink: /oaw2023/monday_oct_23_1
 layout: default
 ---
 
-### Oct 23 | 10:00-11:00: A basic Introduction to Open Access
+### Oct 23 | 10:00-11:00 (CEST): A basic Introduction to Open Access
 
 #### Benjamin Derksen - Copenhagen University Library
 
