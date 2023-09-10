@@ -6,7 +6,7 @@ layout: default
 
 ### Danish Open Access Week 2023 - Oct 23-27
 
-<img src="/images/OA_week_cropped.jpg" alt="Open Access banner" style="height: 25%; width:25%;"/>
+<img src="/images/OA_week_cropped.jpg" alt="Open Access banner" style="height: 100%; width:100%;"/>
 
 #### [Go directly to the programme](#programme-of-the-danish-open-access-week-2023) - [Practical information](#practical-information)
 
