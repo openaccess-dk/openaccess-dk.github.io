@@ -6,6 +6,8 @@ layout: default
 
 ### Danish Open Access Week 2023 - Oct 23-27
 
+<img src="/images/OA_week_cropped.jpg" alt="Open Access banner" style="height: 25%; width:25%;"/>
+
 #### [Go directly to the programme](#programme-of-the-danish-open-access-week-2023) - [Practical information](#practical-information)
 
 ##### For the second year in a row, the Danish Open Access Network is very proud to invite everyone to the Danish Open Access Week 2023. Below you can read more about the [programme](#programme-of-the-danish-open-access-week-2023) and sign up for the individual webinars.
