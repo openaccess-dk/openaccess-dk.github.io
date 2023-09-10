@@ -6,7 +6,7 @@ layout: default
 
 ### Danish Network for Open Access
 
-[<img src="OA_week_flyer 2.jpg" alt="Open Access banner" style="height: 50%; width:50%;"/>](https://openaccess.dk/oaw2023)
+[![Open Access Week 2023](images/OA_week_flyer 2.jpg)](https://openaccess.dk/oaw2023)
 
 The **Danish Network for Open Access** consists of employees from Danish educational institutions 
 who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
