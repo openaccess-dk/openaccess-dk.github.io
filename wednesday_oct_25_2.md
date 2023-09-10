@@ -10,7 +10,7 @@ layout: default
 
 #### Dominic Tate, Head of Library Research Support, Edinburgh University Library
 
-<img src="/images/jd.jpg" alt="Joe Deville" style="height: 25%; width:25%;"/>
+<img src="/images/no image.jpg" alt="Image coming soon" style="height: 25%; width:25%;"/>
 
 Description coming soon.
 
