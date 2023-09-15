@@ -29,6 +29,7 @@ Please note, when you have completed a registration to a webinar, you will not r
 - 13:00-14:00 (CEST): <b>[Beyond BPCs: Towards fairer, more sustainable futures for Open Access books](https://openaccess.dk/oaw2023/tuesday_oct_24_2) </b> - Joe Deville, Open Book Collective / Lancaster University
 
 ##### Wednesday - October 25
+- 10:00-11:00 (CEST): <b>[Unmasking Predatory Publishing](https://openaccess.dk/oaw2023/wednesday_oct_25_1) </b> - Lorna Wildgaard, Research Consultant - Copenhagen University Library
 - 13:00-14:00 (CEST): <b>[Rights Retention Strategy](https://openaccess.dk/oaw2023/wednesday_oct_25_2) </b> - Dominic Tate, Head of Library Research Support, Edinburgh University Library
 
 ##### Thursday - October 26
