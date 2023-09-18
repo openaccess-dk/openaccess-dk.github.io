@@ -6,7 +6,7 @@ layout: default
 
 #### Oct 25 | 10:00-11:00 (CEST):
 
-### Unmasking Predatory Publishing
+### Navigating the Dark Side of Publishing: Understanding predatory practices
 
 #### Lorna Wildgaard, Consultant at Research Support, Copenhagen University Library/Royal Danish Library
 
