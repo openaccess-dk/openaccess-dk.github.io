@@ -17,6 +17,6 @@ The indexing criteria of DOAJ and Scopus can be seen as quality principles for j
 Associate professor at AAU, Patrik Kjærsdam Telléus, is the editor in chief of the Diamond Open Access Journal of Problem-Based Learning in Higher Education. He will explain why they chose to apply for indexation in Scopus and outline the indexation process, which the journal went through recently. Patrik Kjærsdam Telléus is also the editor in chief of the Diamond Open Access Journal of Problem-Based Learning in Higher Education. He holds a PhD in Philosophy and is an associate professor at the Department of Health Science and Technology and the Institute for Advanced Study in PBL-learning at Aalborg University. His research field covers analytical philosophy, medical ethics, and education.<br><br>
 The webinar is presented by the editorial support teams at tidsskrift.dk, CBS Open Journals and journals.aau.dk that provide support for the journals hosted at the Danish Open Journal System (OJS-)servers at the Royal Danish Library, Copenhagen Business School and Aalborg University, respectively. 
 
-##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSd1RALcLRO2hHmQ2f1gL9SifTxv5BNK5D7E5na5nu3UyA8Xlg/viewform?usp=sf_link) <--
+##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSdwmAgrcH69J-K3tOREcFg9HG2uIR93HcJ-0YO4Vn_1hrkrmQ/viewform?usp=sf_link) <--
 
 ##### [BACK](https://openaccess.dk/oaw2023#programme-of-the-danish-open-access-week-2023)
