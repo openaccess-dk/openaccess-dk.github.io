@@ -23,7 +23,8 @@ Please note, when you have completed a registration to a webinar, you will not r
 #### Programme of the Danish Open Access Week 2023
 
 ##### Monday - October 23
-- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2023/monday_oct_23_1) </b> - Benjamin Derksen, Copenhagen University Library<br><br>
+- 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2023/monday_oct_23_1) </b><br>
+Benjamin Derksen, Copenhagen University Library<br><br>
 - 13:00-14:00 (CEST): <b>[How to maintain high quality in a Diamond Open Access journal with (almost) no budget: the example of indexation](https://openaccess.dk/oaw2023/monday_oct_23_2) </b> - Patrik Kjærsdam Telléus, Editor in chief of Journal of Problem-Based Learning in Higher Education<br>
 Anna Stegger Gemzøe, OJS administrator at Aalborg University<br>
 Jesper Boserup Thestrup, OJS administrator at tidsskrift.dk, Royal Danish Library 
