@@ -41,7 +41,8 @@ Lorna Wildgaard, Research Consultant, Copenhagen University Library <br><br>
 Dominic Tate, Head of Library Research Support, Edinburgh University Library
 
 ##### Thursday - October 26
-- TBA
+- 15:00-16:00 (CEST): <b>[Open Scholarly Communication for the academic books and the SSH : The OPERAS infrastructure](https://openaccess.dk/oaw2023/thursday_oct_26_2) </b><br>
+Pierre Mounier, Co-coordinator of OPERAS
 
 ##### Friday - October 27
 - TBA
