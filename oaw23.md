@@ -25,16 +25,20 @@ Please note, when you have completed a registration to a webinar, you will not r
 ##### Monday - October 23
 - 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2023/monday_oct_23_1) </b><br>
 Benjamin Derksen, Copenhagen University Library<br><br>
-- 13:00-14:00 (CEST): <b>[How to maintain high quality in a Diamond Open Access journal with (almost) no budget: the example of indexation](https://openaccess.dk/oaw2023/monday_oct_23_2) </b> - Patrik Kjærsdam Telléus, Editor in chief of Journal of Problem-Based Learning in Higher Education<br>
+- 13:00-14:00 (CEST): <b>[How to maintain high quality in a Diamond Open Access journal with (almost) no budget: the example of indexation](https://openaccess.dk/oaw2023/monday_oct_23_2) </b><br>
+Patrik Kjærsdam Telléus, Editor in chief of Journal of Problem-Based Learning in Higher Education<br>
 Anna Stegger Gemzøe, OJS administrator at Aalborg University<br>
 Jesper Boserup Thestrup, OJS administrator at tidsskrift.dk, Royal Danish Library 
 
 ##### Tuesday - October 24
-- 13:00-14:00 (CEST): <b>[Beyond BPCs: Towards fairer, more sustainable futures for Open Access books](https://openaccess.dk/oaw2023/tuesday_oct_24_2) </b> - Joe Deville, Open Book Collective, Lancaster University
+- 13:00-14:00 (CEST): <b>[Beyond BPCs: Towards fairer, more sustainable futures for Open Access books](https://openaccess.dk/oaw2023/tuesday_oct_24_2) </b><br>
+Joe Deville, Open Book Collective, Lancaster University
 
 ##### Wednesday - October 25
-- 10:00-11:00 (CEST): <b>[Navigating the Dark Side of Publishing: Understanding predatory practices](https://openaccess.dk/oaw2023/wednesday_oct_25_1) </b> - Lorna Wildgaard, Research Consultant, Copenhagen University Library <br><br>
-- 13:00-14:00 (CEST): <b>[Rights Retention Strategy](https://openaccess.dk/oaw2023/wednesday_oct_25_2) </b> - Dominic Tate, Head of Library Research Support, Edinburgh University Library
+- 10:00-11:00 (CEST): <b>[Navigating the Dark Side of Publishing: Understanding predatory practices](https://openaccess.dk/oaw2023/wednesday_oct_25_1) </b><br>
+Lorna Wildgaard, Research Consultant, Copenhagen University Library <br><br>
+- 13:00-14:00 (CEST): <b>[Rights Retention Strategy](https://openaccess.dk/oaw2023/wednesday_oct_25_2) </b><br>
+Dominic Tate, Head of Library Research Support, Edinburgh University Library
 
 ##### Thursday - October 26
 - TBA
