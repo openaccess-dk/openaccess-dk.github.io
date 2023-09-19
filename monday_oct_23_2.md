@@ -6,7 +6,7 @@ layout: default
 
 ### Oct 23 | 13:00-14:00 (CEST): How to maintain high quality in a Diamond Open Access journal with (almost) no budget: the example of indexation
 
-#### Patrik Kjærsdam Telléus -  Editor in chief of the Diamond Open Access *Journal of Problem-Based Learning in Higher Education*
+#### Patrik Kjærsdam Telléus -  Editor in chief of the Diamond Open Access journal 'Journal of Problem-Based Learning in Higher Education'
 
 <img src="/images/P.jpg" alt="No image" style="height: 25%; width:25%;"/>
 
