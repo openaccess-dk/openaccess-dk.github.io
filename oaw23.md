@@ -37,8 +37,8 @@ Joe Deville, Open Book Collective, Lancaster University
 ##### Wednesday - October 25
 - 10:00-11:00 (CEST): <b>[Navigating the Dark Side of Publishing: Understanding predatory practices](https://openaccess.dk/oaw2023/wednesday_oct_25_1) </b><br>
 Lorna Wildgaard, Research Consultant, Copenhagen University Library <br><br>
-- 13:00-14:00 (CEST): <b>[Rights Retention Strategy](https://openaccess.dk/oaw2023/wednesday_oct_25_2) </b><br>
-Dominic Tate, Head of Library Research Support, Edinburgh University Library
+- 13:00-14:00 (CEST): <b>[Rights Retention Policy at the University of Edinburgh, a review of the first 18 months](https://openaccess.dk/oaw2023/wednesday_oct_25_2) </b><br>
+Dominic Tate, Deputy Director & Head of Library Research Support, Edinburgh University Library
 
 ##### Thursday - October 26
 - 15:00-16:00 (CEST): <b>[Open Scholarly Communication for the academic books and the SSH : The OPERAS infrastructure](https://openaccess.dk/oaw2023/thursday_oct_26_2) </b><br>
