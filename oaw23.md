@@ -24,7 +24,7 @@ Please note, when you have completed a registration to a webinar, you will not r
 
 ##### Monday - October 23
 - 10:00-11:00 (CEST): <b>[A Basic Introduction to Open Access](https://openaccess.dk/oaw2023/monday_oct_23_1) </b><br>
-Benjamin Derksen, Copenhagen University Library<br><br>
+Benjamin Derksen, Royal Danish Library/Copenhagen University Library<br><br>
 - 13:00-14:00 (CEST): <b>[How to maintain high quality in a Diamond Open Access journal with (almost) no budget: the example of indexation](https://openaccess.dk/oaw2023/monday_oct_23_2) </b><br>
 Patrik Kjærsdam Telléus, Editor in chief of Journal of Problem-Based Learning in Higher Education<br>
 Anna Stegger Gemzøe, OJS administrator at Aalborg University<br>
@@ -36,7 +36,7 @@ Joe Deville, Open Book Collective, Lancaster University
 
 ##### Wednesday - October 25
 - 10:00-11:00 (CEST): <b>[Navigating the Dark Side of Publishing: Understanding predatory practices](https://openaccess.dk/oaw2023/wednesday_oct_25_1) </b><br>
-Lorna Wildgaard, Research Consultant, Copenhagen University Library <br><br>
+Lorna Wildgaard, Research Consultant, Royal Danish Library/Copenhagen University Library<br><br>
 - 13:00-14:00 (CEST): <b>[Rights Retention Policy at the University of Edinburgh, a review of the first 18 months](https://openaccess.dk/oaw2023/wednesday_oct_25_2) </b><br>
 Dominic Tate, Deputy Director & Head of Library Research Support, Edinburgh University Library
 
