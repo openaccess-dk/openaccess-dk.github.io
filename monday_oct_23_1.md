@@ -8,7 +8,7 @@ layout: default
 
 ### A basic Introduction to Open Access
 
-#### Benjamin Derksen - Copenhagen University Library
+#### Benjamin Derksen - Royal Danish Library/Copenhagen University Library
 
 <img src="/images/bder kopier.jpg" alt="Benjamin Derksen" style="height: 25%; width:25%;"/>
 
