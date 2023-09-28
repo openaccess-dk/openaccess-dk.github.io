@@ -8,7 +8,7 @@ layout: default
 
 ### Navigating the Dark Side of Publishing: Understanding predatory practices
 
-#### Lorna Wildgaard, Consultant at Research Support, Copenhagen University Library/Royal Danish Library
+#### Lorna Wildgaard, Consultant at Research Support, Royal Danish Library/Copenhagen University Library
 
 <img src="/images/lowi.png" alt="Lorna Wildgaard" style="height: 25%; width:25%;"/>
 
