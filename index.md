@@ -18,22 +18,9 @@ The Network is organized independent of stakeholder organizations and projects/f
 
 #### List of members - Sorted by organization
 
-**AU Library | Royal Danish Library**<br/>
-Anna Mette Morthorst<br/>
-Jesper Boserup Thestrup<br/>
-Mathias Johannes Michelsen<br/>
-Morten Hjorth Gad<br/><br/>
-
 **Copenhagen Business School**<br/>
 Claus Rosenkrantz Hansen<br/>
 Lene Janussen Gry<br/><br/>
-
-**Copenhagen University Library | Royal Danish Library**<br/>
-Ane Ahrenkiel Sand<br/>
-Katarina Smitt Engberg<br/>
-Ragnheiður Mósesdóttir<br/>
-Rasmus Rindom Riise<br/>
-Rie Karen Marie Iversen<br/><br/>
 
 **Danish Institute for International Studies**<br/>
 Maiken Vinter Bjerrum<br/><br/>
@@ -45,11 +32,24 @@ Christian Damsgaard Pedersen<br/><br/>
 **IT University of Copenhagen**<br/>
 Sofie Nohr Gad<br/><br/>
 
-**Roskilde University Library | Royal Danish Library**<br/>
-Sidse Louise Schelde<br/><br/>
-
 **Royal Danish Academy**<br/>
 Margrethe Gæk Bredahl<br/><br/>
+
+**Royal Danish Library | AU Library**<br/>
+Anna Mette Morthorst<br/>
+Jesper Boserup Thestrup<br/>
+Mathias Johannes Michelsen<br/>
+Morten Hjorth Gad<br/><br/>
+
+**Royal Danish Library | Copenhagen University Library**<br/>
+Ane Ahrenkiel Sand<br/>
+Katarina Smitt Engberg<br/>
+Ragnheiður Mósesdóttir<br/>
+Rasmus Rindom Riise<br/>
+Rie Karen Marie Iversen<br/><br/>
+
+**Royal Danish Library | Roskilde University Library**<br/>
+Sidse Louise Schelde<br/><br/>
 
 **University College Absalon**<br/>
 Annemette Holst Andersen<br/>
