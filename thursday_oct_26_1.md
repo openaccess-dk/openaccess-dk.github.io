@@ -28,6 +28,7 @@ Katherine Stephan has worked in both public and higher education libraries for o
 
 Niels Stern has worked in scholarly publishing for more than twenty years. Since 2014 he has also acted as an independent expert for the European Commission on open science and e-infrastructures. He is a member of the OPERAS Executive Assembly and the Open Book Collective Board of Stewards and serves on a number of advisory boards and committees.<br><br>
 
+**Notice: This webinar will be recorded**
 
 ##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSc4DYwk2qr7E-DSkSLzSEKbD63Z059C-M5owu7-lohF_UaLIQ/viewform?usp=sf_link) <--
 
