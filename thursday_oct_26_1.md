@@ -20,13 +20,13 @@ layout: default
 
 <p>In her part of the presentation Katherine will talk about the journal part of Think. Check. Submit. She will address various issues that researchers should consider (before/during/after) they publish their research.</p>
 
-Niels will focus on the book and chapter section of Think., Check. Submit. He will look at the important aspects of what to consider when looking for a publisher for your book (or chapter) manuscript.<br><br>
+<p>Niels will focus on the book and chapter section of Think., Check. Submit. He will look at the important aspects of what to consider when looking for a publisher for your book (or chapter) manuscript.</p>
 
-Katherine Stephan and Niels Stern are both members of the Think. Check. Submit. committee.<br><br>
+<p>Katherine Stephan and Niels Stern are both members of the Think. Check. Submit. committee.</p>
 
-Katherine Stephan has worked in both public and higher education libraries for over twenty years. She is a keen advocate of local libraries, open research and responsible research assessment.  She is on the UKSG Outreach and Engagement committee and is co-organiser of Open Research Week, a collaboration between LJMU, Edge Hill University and the University of Liverpool.<br><br>
+<p>Katherine Stephan has worked in both public and higher education libraries for over twenty years. She is a keen advocate of local libraries, open research and responsible research assessment. She is on the UKSG Outreach and Engagement committee and is co-organiser of Open Research Week, a collaboration between LJMU, Edge Hill University and the University of Liverpool.</p>
 
-Niels Stern has worked in scholarly publishing for more than twenty years. Since 2014 he has also acted as an independent expert for the European Commission on open science and e-infrastructures. He is a member of the OPERAS Executive Assembly and the Open Book Collective Board of Stewards and serves on a number of advisory boards and committees.<br><br>
+<p>Niels Stern has worked in scholarly publishing for more than twenty years. Since 2014 he has also acted as an independent expert for the European Commission on open science and e-infrastructures. He is a member of the OPERAS Executive Assembly and the Open Book Collective Board of Stewards and serves on a number of advisory boards and committees.</p>
 
 **Notice: This webinar will be recorded**
 
