@@ -12,7 +12,7 @@ layout: default
 
 <img src="/images/lowi.png" alt="Lorna Wildgaard" style="height: 25%; width:25%;"/>
 
-<p>In this webinar, we dive into the world of predatory publishing.</p>
+<p>In this webinar, we dive into the world of predatory publishing:</p>
 * What exactly is a predatory journal?
 * What methods do they employ?
 * How can you distinguish a predatory journal from a reputable one?
