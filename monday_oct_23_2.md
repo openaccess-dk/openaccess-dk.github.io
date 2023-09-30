@@ -20,13 +20,13 @@ layout: default
 
 <img src="/images/J.jpg" alt="No image" style="height: 25%; width:25%;"/>
 
-Webinar for researchers/editors about the indexation criteria for DOAJ and Scopus.<br><br> 
-Indexation is not an exclusive option for paywalled journals. On the contrary, it can be a way of stating your journal’s quality despite its budget. 
-But why can indexation in databases such as Directory of Open Access Journals (DOAJ) and the citation database Scopus be a sign of quality and what does it take?<br> 
-The indexing criteria of DOAJ and Scopus can be seen as quality principles for journals wanting to meet professional editorial standards, attract researchers and submissions, as well as harvest the fruits of indexation. Even if your journal does not live up to all the quality criteria yet, this webinar is a chance to get an introduction, ask questions and gather inspiration for your editorial team: How hard is it to achieve indexation in e.g. DOAJ and Scopus? And is it worth it?<br><br> 
-Associate professor at AAU, Patrik Kjærsdam Telléus, is the editor in chief of the Diamond Open Access Journal of Problem-Based Learning in Higher Education. He will explain why they chose to apply for indexation in Scopus and outline the indexation process, which the journal went through recently. Patrik Kjærsdam Telléus is also the editor in chief of the Diamond Open Access Journal of Problem-Based Learning in Higher Education. He holds a PhD in Philosophy and is an associate professor at the Department of Health Science and Technology and the Institute for Advanced Study in PBL-learning at Aalborg University. His research field covers analytical philosophy, medical ethics, and education.<br><br>
-Anna Stegger Gemzøe is the OJS administrator at Aalborg University. She works with Open Access publishing and provides support for the editorial teams at journals.aau.dk.<br><br>
-Jesper Boserup Thestrup is the OJS administrator at tidsskrift.dk, the Danish national publishing platform for journals hosted by the Royal Danish Library.<br><br>
+<p>Webinar for researchers/editors about the indexation criteria for DOAJ and Scopus.</p>
+<p>Indexation is not an exclusive option for paywalled journals. On the contrary, it can be a way of stating your journal’s quality despite its budget. 
+But why can indexation in databases such as Directory of Open Access Journals (DOAJ) and the citation database Scopus be a sign of quality and what does it take?</p>
+<p>The indexing criteria of DOAJ and Scopus can be seen as quality principles for journals wanting to meet professional editorial standards, attract researchers and submissions, as well as harvest the fruits of indexation. Even if your journal does not live up to all the quality criteria yet, this webinar is a chance to get an introduction, ask questions and gather inspiration for your editorial team: How hard is it to achieve indexation in e.g. DOAJ and Scopus? And is it worth it?</p>
+<p>Associate professor at AAU, Patrik Kjærsdam Telléus, is the editor in chief of the Diamond Open Access Journal of Problem-Based Learning in Higher Education. He will explain why they chose to apply for indexation in Scopus and outline the indexation process, which the journal went through recently. Patrik Kjærsdam Telléus is also the editor in chief of the Diamond Open Access Journal of Problem-Based Learning in Higher Education. He holds a PhD in Philosophy and is an associate professor at the Department of Health Science and Technology and the Institute for Advanced Study in PBL-learning at Aalborg University. His research field covers analytical philosophy, medical ethics, and education.</p>
+<P>Anna Stegger Gemzøe is the OJS administrator at Aalborg University. She works with Open Access publishing and provides support for the editorial teams at journals.aau.dk.</P>
+<p>Jesper Boserup Thestrup is the OJS administrator at tidsskrift.dk, the Danish national publishing platform for journals hosted by the Royal Danish Library.</p>
 
 **Notice: This webinar will be recorded**
 
