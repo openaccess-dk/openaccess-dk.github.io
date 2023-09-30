@@ -16,7 +16,7 @@ layout: default
 
 <img src="/images/ns.jpg" alt="Pierre Mounier" style="height: 25%; width:25%;"/>
 
-<p>In this presentation Katherine Stephan and Niels Stern will address how the initiative [Think. Check. Submit.](https://thinkchecksubmit.org/) can help researchers make sound publishing choices. Think. Check. Submit. offers a range of free tools and resources with the aim of helping researchers identify trusted journals and book publishers for their research and promote integrity and build trust in credible research and publications.</p>
+<p>In this presentation Katherine Stephan and Niels Stern will address how the initiative <a href="https://thinkchecksubmit.org/">Think. Check. Submit.</a> can help researchers make sound publishing choices. Think. Check. Submit. offers a range of free tools and resources with the aim of helping researchers identify trusted journals and book publishers for their research and promote integrity and build trust in credible research and publications.</p>
 
 <p>In her part of the presentation Katherine will talk about the journal part of Think. Check. Submit. She will address various issues that researchers should consider (before/during/after) they publish their research.</p>
 
