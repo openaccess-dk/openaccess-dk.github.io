@@ -48,4 +48,6 @@ Niels Stern, Managing Director, OAPEN<br><br>
 Pierre Mounier, Co-coordinator of OPERAS
 
 ##### Friday - October 27
-- TBA
+- 10:00-11:00 (CEST): <b>[From “All rights reserved” to “Some rights reserved”: The Importance of Creative Commons Licenses in Open Access Publishing](https://openaccess.dk/oaw2023/friday_oct_27_1) </b><br>
+Claus Rosenkrantz Hansen, senior advisor, Copenhagen Business School Library<br>
+Rasmus Rindom Riise, special advisor, Royal Danish Library/Copenhagen University Library
