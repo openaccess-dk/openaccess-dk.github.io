@@ -41,7 +41,7 @@ Lorna Wildgaard, Research Consultant, Royal Danish Library/Copenhagen University
 Dominic Tate, Deputy Director & Head of Library Research Support, Edinburgh University Library
 
 ##### Thursday - October 26
-- 10:00-11:00 (CEST): <b>[Agency in Author Choice: How Think. Check. Submit Can Help Researchers Make Sound Publishing Choices](https://openaccess.dk/oaw2023/thursday_oct_26_1) </b><br>
+- 10:00-11:00 (CEST): <b>[Agency in Author Choice: How Think. Check. Submit Can Help Researchers Make Sound Publishing Choices](https://openaccess.dk/oaw2023/thursday_oct_26_1) - <b>[Watch recording](https://oer.ku.dk/media/t/0_cosqp9vh) </b><br>
 Katherine Stephan, Research Engagement Librarian, Liverpool John Moores University<br>
 Niels Stern, Managing Director, OAPEN<br><br>
 - 15:00-16:00 (CEST): <b>[Open Scholarly Communication for the academic books and the SSH : The OPERAS infrastructure](https://openaccess.dk/oaw2023/thursday_oct_26_2) - <b>[Download slides](https://kub.kb.dk/ld.php?content_id=35085245) </b><br>
