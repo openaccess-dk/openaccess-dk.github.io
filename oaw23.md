@@ -31,7 +31,7 @@ Anna Stegger Gemzøe, OJS administrator at Aalborg University<br>
 Jesper Boserup Thestrup, OJS administrator at tidsskrift.dk, Royal Danish Library 
 
 ##### Tuesday - October 24
-- 13:00-14:00 (CEST): <b>[Beyond BPCs: Towards fairer, more sustainable futures for Open Access books](https://openaccess.dk/oaw2023/tuesday_oct_24_2) </b><br>
+- 13:00-14:00 (CEST): <b>[Beyond BPCs: Towards fairer, more sustainable futures for Open Access books](https://openaccess.dk/oaw2023/monday_oct_24_2) </b> - <b>[Download slides](https://kub.kb.dk/ld.php?content_id=35084173) </b> - <b>[Watch recording](https://oer.ku.dk/media/t/0_4s4nbeko) </b><br>
 Joe Deville, Open Book Collective, Lancaster University
 
 ##### Wednesday - October 25
