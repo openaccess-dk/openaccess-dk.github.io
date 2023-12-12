@@ -35,7 +35,7 @@ Jesper Boserup Thestrup, OJS administrator at tidsskrift.dk, Royal Danish Librar
 Joe Deville, Open Book Collective, Lancaster University
 
 ##### Wednesday - October 25
-- 10:00-11:00 (CEST): <b>[Navigating the Dark Side of Publishing: Understanding predatory practices](https://openaccess.dk/oaw2023/wednesday_oct_25_1) </b><br>
+- 10:00-11:00 (CEST): <b>[Navigating the Dark Side of Publishing: Understanding predatory practices](https://openaccess.dk/oaw2023/wednesday_oct_25_1) </b> - <b>[Download slides](https://kub.kb.dk/ld.php?content_id=35084178) </b><br>
 Lorna Wildgaard, Research Consultant, Royal Danish Library/Copenhagen University Library<br><br>
 - 13:00-14:00 (CEST): <b>[Rights Retention Policy at the University of Edinburgh, a review of the first 18 months](https://openaccess.dk/oaw2023/wednesday_oct_25_2) </b><br>
 Dominic Tate, Deputy Director & Head of Library Research Support, Edinburgh University Library
