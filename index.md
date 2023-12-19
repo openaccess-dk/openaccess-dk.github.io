@@ -39,6 +39,9 @@ Jesper Boserup Thestrup<br/>
 Mathias Johannes Michelsen<br/>
 Morten Hjorth Gad<br/><br/>
 
+**Royal Danish Library | Department of License Management**<br/>
+Dorte Andersen<br/><br/>
+
 **Royal Danish Library | Copenhagen University Library**<br/>
 Ane Ahrenkiel Sand<br/>
 Katarina Smitt Engberg<br/>
