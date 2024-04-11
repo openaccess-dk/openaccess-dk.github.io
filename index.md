@@ -47,8 +47,8 @@ Ane Ahrenkiel Sand<br/>
 Katarina Smitt Engberg<br/>
 Ragnheiður Mósesdóttir<br/>
 Rasmus Rindom Riise<br/>
-Rie Karen Marie Iversen<br/><br/>
-Therese Møller<br/><br/>
+Rie Karen Marie Iversen<br/>
+Therese Møller<br/><br/><br/>
 
 **Royal Danish Library | Roskilde University Library**<br/>
 Sidse Louise Schelde<br/><br/>
