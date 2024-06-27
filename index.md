@@ -44,6 +44,7 @@ Dorte Andersen<br/><br/>
 
 **Royal Danish Library | Copenhagen University Library**<br/>
 Ane Ahrenkiel Sand<br/>
+Christian Hagen Thomasen<br/>
 Katarina Smitt Engberg<br/>
 Ragnheiður Mósesdóttir<br/>
 Rasmus Rindom Riise<br/>
