@@ -1,8 +1,8 @@
 - name: About the network
   link: /
 
-- name: Contact the network
-  link: /contact
-
 - name: Danish OA Week - Previous years
   link: /oawarchive
+
+- name: Contact the network
+  link: /contact
