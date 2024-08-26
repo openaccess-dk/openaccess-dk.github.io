@@ -12,7 +12,7 @@ The purpose of the Network is to be a forum for knowledge sharing and discussion
 that the institutions are faced with in their daily work with Open Access.<br/> 
 The Network is organized independent of stakeholder organizations and projects/funding.
 
-<a href="https://kub.kb.dk/ld.php?content_id=34824666" target="_blank"> Read the network's Statement of Intent </a>
+<a href="https://openaccess.dk/Dokumenter/Statement of Intent for Danish Network for Open Access.pdf" target="_blank"> Read the network's Statement of Intent </a>
 
 #### List of members - Sorted by organization
 
