@@ -4,7 +4,7 @@ permalink: /oaw2024/monday
 layout: default
 ---
 
-#### Oct 23 | 10:00-11:00 (CEST):
+#### Oct 21 | 10:00-11:00 (CEST):
 
 ### A basic Introduction to Open Access
 
