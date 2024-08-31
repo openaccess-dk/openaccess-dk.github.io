@@ -1,5 +1,5 @@
 ---
-title: Tuesday1
+title: Tuesday
 permalink: /oaw2024/tuesday1
 layout: default
 ---
