@@ -1,6 +1,6 @@
 ---
 title: Tuesday
-permalink: /oaw2024/tuesday1
+permalink: /oaw2024/02tuesday
 layout: default
 ---
 
