@@ -10,7 +10,7 @@ layout: default
 
 #### Rasmus Rindom Riise - Royal Danish Library/Copenhagen University Library
 
-<img src="/oaw2024/images/rarr.jpg" alt="Rasmus Rindom Riise" style="height: 25%; width:25%;"/>
+<img src="/oaw2024/images/rarr.png" alt="Rasmus Rindom Riise" style="height: 25%; width:25%;"/>
 
 <p>In the wake of the launch of Plan S in 2018, funders are increasingly demanding immediate Open Access to research publications. The European Commission's Horizon Europe Research Framework is aligned with the principles of Plan S. This webinar will provide an introduction on how Horizon Europe grant holders comply with the programme’s Open Access requirements.<br>
 The webinar will focus on:<br>
