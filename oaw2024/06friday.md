@@ -6,7 +6,7 @@ layout: default
 
 #### Oct 25 | 13:00-14:00 (CEST):
 
-### Open Access Requirements in Horizon Europe
+### Open Access Requirements in Horizon Europe and How to Ensure Compliance
 
 #### Rasmus Rindom Riise - Royal Danish Library/Copenhagen University Library
 
