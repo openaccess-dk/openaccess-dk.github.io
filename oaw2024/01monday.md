@@ -8,7 +8,7 @@ layout: default
 
 ### A basic Introduction to Open Access
 
-#### Benjamin Derksen - Royal Danish Library/Copenhagen University Library
+#### Katarina Smitt Engberg - Royal Danish Library/Copenhagen University Library
 
 <img src="/oaw2024/images/kase.jpg" alt="Katarina Smitt Engberg" style="height: 25%; width:25%;"/>
 
