@@ -6,7 +6,7 @@ layout: default
 
 #### Oct 22 | 13:00-14:00 (CEST):
 
-### A basic Introduction to Open Access
+### APredatory publishing 2.0: Spotting the redflags and staying protected
 
 #### Lorna Wildgaard, Research Consultant, Royal Danish Library/Copenhagen University Library
 
