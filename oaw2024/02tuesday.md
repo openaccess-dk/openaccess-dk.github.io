@@ -18,7 +18,7 @@ layout: default
 
 <p>Agnes is a Research Data Specialist at the Digital Curation Centre (DCC) at the University of Edinburgh. She has a Ph.D. in Neuroscience and over ten years of experience working with various types of research data, both as a scientist and a data services specialist. Her current focus is on developing training for Open Science projects such as Skills4EOSC and FAIR-Impact, including on research data management and open licensing.</p>
 
-##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSd1RALcLRO2hHmQ2f1gL9SifTxv5BNK5D7E5na5nu3UyA8Xlg/viewform?usp=sf_link) <--
+##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSeG4RkQaMVI5AhIXHfsy2xI0gaxmWgWSlfxCS1xjl7x99UIsw/viewform?usp=sf_link) <--
 
 ##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
 
