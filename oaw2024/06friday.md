@@ -8,7 +8,7 @@ layout: default
 
 ### Open Access Requirements in Horizon Europe and How to Ensure Compliance
 
-#### Rasmus Rindom Riise - Royal Danish Library/Copenhagen University Library
+#### Rasmus Rindom Riise, Senior Adviser, Royal Danish Library/Copenhagen University Library
 
 <img src="/oaw2024/images/rarr.png" alt="Rasmus Rindom Riise" style="height: 25%; width:25%;"/>
 
