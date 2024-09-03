@@ -24,7 +24,7 @@ The webinar will focus on:<br>
 </p>
 <p>Rasmus works daily in the Department for Research Support Copenhagen University Library, where he supports researchers in Open Access publishing, among other tasks. Additionally, Rasmus is a member of the <a href="https://www.knowledge-exchange.info/projects/project/open-access">Knowledge Exchange Open Access Expert Group</a>, which works to promote Open Access infrastructure.</p>
 
-##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSd1RALcLRO2hHmQ2f1gL9SifTxv5BNK5D7E5na5nu3UyA8Xlg/viewform?usp=sf_link) <--
+##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSek6t6mPZv-ASkYQgLluDCTAy-5RJEt5Gq-Ufd0gJU4X21fog/viewform?usp=sf_link) <--
 
 ##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
 
