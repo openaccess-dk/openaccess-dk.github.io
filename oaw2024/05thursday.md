@@ -6,7 +6,7 @@ layout: default
 
 #### Oct 24 | 12:30-13:30 (CEST):
 
-### Open Educational Ressources
+### Open Educational Resources
 
 #### Jeannette Ekstrøm, Senior Information Officer, DTU Library
 
