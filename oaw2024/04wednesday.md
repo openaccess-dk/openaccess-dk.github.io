@@ -18,7 +18,7 @@ layout: default
 
 <p>Description coming soon</p>
 
-##### --> [SIGN UP FOR THE WEBINAR](https://openaccess.dk/oaw2024/04wednesday) <--
+##### --> [SIGN UP FOR THE WEBINAR](https://docs.google.com/forms/d/e/1FAIpQLSeLX7QIskELvMy3OjUAWdoT7xPlResZIcC8451irwChS4hKUg/viewform?usp=sf_link) <--
 
 ##### [BACK](https://openaccess.dk/oaw2024#programme-of-the-danish-open-access-week-2024)
 
