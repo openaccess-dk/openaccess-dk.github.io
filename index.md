@@ -10,11 +10,11 @@ layout: default
   <img src="/oaw2024/images/OAWeek2024_mindre.jpg">
 </a>
 
-The **Danish Network for Open Access** consists of employees from Danish educational institutions 
+<p>The **Danish Network for Open Access** consists of employees from Danish educational institutions 
 who deal with the dissemination as well as operational and developmental issues in relation to Open Access. 
 The purpose of the Network is to be a forum for knowledge sharing and discussion on practical issues and challenges 
-that the institutions are faced with in their daily work with Open Access.<br/> 
-The Network is organized independent of stakeholder organizations and projects/funding.
+that the institutions are faced with in their daily work with Open Access.<br> 
+The Network is organized independent of stakeholder organizations and projects/funding.</p>
 
 <a href="https://openaccess.dk/Dokumenter/Statement of Intent for Danish Network for Open Access.pdf" target="_blank"> Read the network's Statement of Intent </a>
 
