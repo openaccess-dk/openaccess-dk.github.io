@@ -4,7 +4,7 @@ permalink: /oaw2024/04wednesday
 layout: default
 ---
 
-#### Oct 23 | 10:00-11:00 (CEST):
+#### Oct 23 | 13:00-14:00 (CEST):
 
 ### Green Open Access and FAIR data in relief: challenges and possibilities
 
